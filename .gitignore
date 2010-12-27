@@ -28,3 +28,6 @@ tv/lib/frontends/widgets/gtk/webkitgtkhacks.c
 sandbox_*
 
 *.wpu
+tv/windows/miro-binary-kit-win-20101214
+tv/windows/requirements
+tv/lib/frontends/widgets/gtk
